@@ -32,9 +32,9 @@
 
 ## Install
 
-For Windows with SOLIDWORKS 2022 or later. Tested on SOLIDWORKS 2026.
+For Windows with SOLIDWORKS 2022 or later. Tested on SOLIDWORKS 2022 SP4.
 
-1. Download `FullyDefined-Setup-<version>.exe` from the [latest release](https://github.com/adinomyerson/FullyDefined-AI-for-SOLIDWORKS/releases/latest).
+1. Download
 2. Windows warns because the installer is not code-signed yet. Click **More info**, then **Run anyway**.
 3. Tick your AI apps and click **Install**. When it finishes, fully quit and reopen your AI app.
 
@@ -54,7 +54,6 @@ Or give it a drawing of a part and ask it to build it.
 - **Installed and used:** Antigravity.
 - **Should work:** Gemini CLI, VS Code with GitHub Copilot, and other apps that run local MCP servers.
 
-ChatGPT can't use it: it only connects to servers on the internet, and FullyDefined runs next to SOLIDWORKS on your PC.
 
 ## Help
 
